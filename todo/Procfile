@@ -1,1 +1,1 @@
-wep:gunicorn todo:todo
+wep:gunicorn todo.wsgi
